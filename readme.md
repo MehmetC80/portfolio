@@ -2,9 +2,11 @@
 
 ## 1. Recherche wie es aussehen könnte
 
-## Idee One-Pager mit einer Navbar einem sticky-header und unten im letzten Abschnitt kontakt mit Formular ...
+## 2. Idee One-Pager:
 
-## Der Inhalt besteht aus meinem persöhnliches Profil: Bildung, Beruflicher Werdegang, Kenntnisse und Softskills
+### mit einer Navbar einem sticky-header und unten im letzten Abschnitt kontakt mit Formular ...
+
+### Der Inhalt besteht aus meinem persöhnliches Profil: Bildung, Beruflicher Werdegang, Kenntnisse und Softskills
 
 ## 2. Technologien :
 
